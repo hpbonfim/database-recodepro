@@ -32,7 +32,7 @@
     <li>phpMyAdmin - Gerenciador do Banco</li>
 </ul>
 <p>O MySQL é um serviço de segundo plano, ou seja, apenas aplicativos de primeiro plano conseguem utilizar e é ai que entra o phpMyAdmin</p>
-<h3>Para utilizar o phpMyAdmin, abra no seu navegador: <a href="http://localhost/">http://localhost/</a></h3>
+<h3>Para utilizar o phpMyAdmin, abra no seu navegador: <a href="http://localhost/">http://localhost:8080/</a></h3>
 <br>
 <h3>Você vai ver uma tela semelhante a esta abaixo</h3>
 <img src="imagens/login_banco.png" width="30%"/>
