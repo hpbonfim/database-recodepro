@@ -10,7 +10,8 @@
 <p>No Windows / Mac a instalação é junto com o docker!</a>
 <hr>
 <h2> 3. Execute o script</h2>
-<p>Dentro da pasta existe um arquivo chamado <b><i>docker_compose.yml</b></i>
+<p>Clone este projeto para o seu computador usando <b><code>git clone https://github.com/hpbonfim/database-recodepro.git</code></b> ou fazendo o <a href="https://github.com/hpbonfim/database-recodepro/archive/master.zip">download via ZIP</a></p>
+<p>Depois de terminar, dentro da pasta <b>database-recodepro</b> existe um arquivo chamado <b><i>docker-compose.yml</b></i>
 <p>No terminal de comandos do seu PC: </p>
 <p>1. execute o comando <b><code>docker-compose up -d</code></b> e aguarde o download e quando aparecer <span style="color: green; ">DONE</span> significa que está rodando!.</p>
 <p>OBS: Existe um log, caso queira ver, escreva no terminal o comando <b><code>docker-compose logs </code></b></p>
