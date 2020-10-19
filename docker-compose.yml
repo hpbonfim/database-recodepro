@@ -45,6 +45,17 @@ services:
     networks:
       - intranet
 
+  php:
+    image: hpbonfim/php-apache:latest
+    container_name: php
+    ports:
+      - 80:80
+    restart: unless-stopped
+    volumes:
+      - ./projeto-fullstack:/var/www/html
+    networks:
+      - intranet
+
 networks:
   intranet:
 
