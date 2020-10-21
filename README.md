@@ -42,7 +42,7 @@
 <h3>1. Para acessar o banco de dados, use as seguintes informações: </h3>
 <ul>
     <li>Servidor: mysql</li>
-    <li>Usuário: recode</li>
+    <li>Usuário: root</li>
     <li>Senha: recode</li>
 </ul>
 <hr>
