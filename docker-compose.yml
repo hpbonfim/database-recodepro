@@ -52,7 +52,7 @@ services:
       - 80:80
     restart: unless-stopped
     volumes:
-      - ./projeto-fullstack:/var/www/html
+      - ./php:/var/www/html
     networks:
       - intranet
 
