@@ -11,6 +11,4 @@
     if(!$conn) {
         die("A conexão com o Banco de dados falhou: " . mysqli_connect_error());
     }
-    
-    mysqli_close($conn);
 ?>
