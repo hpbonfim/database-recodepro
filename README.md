@@ -6,7 +6,7 @@
 <a href="https://blog.qaninja.io/instalando-o-docker/">Como instalar no Ubuntu / Mac / Windows</a>
 <hr>
 <h2> 2. Instalar o Docker Compose</h2>
-<a href="https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04-pt"> Como instalar no Ubuntu</a>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-pt"> Como instalar no Ubuntu</a>
 <p>No Windows / Mac a instalação é junto com o docker!</a>
 <hr>
 <h2> 3. Execute o script</h2>
